@@ -1,3 +1,15 @@
-.jumbotron{
-  background-image: url"../img/landscape.jpg";
+.jumbotron {
+  background-image: url("../img/mantahhan.city-view-1000x750.jpg");
+  background-size: cover;
+  background-position: center;
+
+}
+.jumbotron p {
+  color: white;
+}
+a {
+  color: white;
+}
+h1 {
+  color: white;
 }
